@@ -1,4 +1,4 @@
-# Crunz
+# Crunz [![Build Status](https://travis-ci.org/NGenTechLabs/crunz.svg?branch=master)](https://travis-ci.org/NGenTechLabs/crunz)
 
 Install a cron job once and for all, manage the rest from the code.
 
