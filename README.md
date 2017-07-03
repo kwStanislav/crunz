@@ -11,7 +11,7 @@ Crunz is capable of executing any kind of executable command as well as PHP clos
 To install it:
 
 ```bash
-composer require ngentechlabs/crunz
+composer require kwstanislav/crunz
 ```
 If the installation is successful, a command-line utility named **crunz** is symlinked to `vendor/bin` directory of your project. 
 
