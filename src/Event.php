@@ -100,6 +100,7 @@ class Event
         'day'    => 3,
         'month'  => 4,
         'week'   => 5,
+        'year'   => 6
 
     ];
 
